@@ -1,0 +1,95 @@
+h1 {
+text-align: center;
+}
+div {
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: 3px solid black;
+        position: relative;
+      }
+      
+      p.top {
+        position:absolute;
+        top: 0;
+      }
+
+    .container {
+        margin:auto;
+        min-height: 500px;
+        width: 500px;
+        background-color: red;
+        
+      }
+      
+      .box-2 {
+        width: 300px;
+        min-height: 300px;
+        background-color: blue;
+      }
+      
+      .box-3 {
+        width: 100px;
+        min-height: 100px;
+        background-color: white;
+      }
+      
+      
+      
+      table tr {
+        background-color: red;
+    
+      }
+     td {
+          width: 100px;
+          height: 100px;
+        }
+        .blue {
+            background-color: blue;
+        }
+        .white {
+            
+            background-color: white;
+            border:3px solid black;
+        }
+        table {
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        #lt {
+            border-left: 3px solid black;
+            border-top: 3px solid  black;
+        }
+        #t {
+            border-top: 3px solid black;
+        }
+        #tr {
+            border-top:3px solid black;
+            border-right: 3px solid black;
+        }
+        #l {
+            border-left: 3px solid black;
+        }
+        #rt {
+            border-right: 3px solid black;
+            border-top: 3px solid black;
+        }
+        #r {
+            border-right: 3px solid black;
+        }
+        #br { 
+            border-bottom: 3px solid black;
+            border-right: 3px solid black;
+        }
+        #bl {
+            border-bottom: 3px solid black;
+            border-left: 3px solid black
+        }
+        #b { 
+            border-bottom: 3px solid black;
+        }
+
+    
+        
